@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: jmarcelotse/primeira-pipeline
+        image: jmarcelotse/projeto-tivit-cloud
         ports:
         - containerPort: 5000
 ---
